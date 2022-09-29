@@ -48,7 +48,11 @@
 
 
 
-[[NeatReader](https://github.com/hankangwen/NeatReader)]：NeatReader专用书库
+[[MarkDownNote](https://github.com/hankangwen/MarkDownNote)]：MarkDown笔记和NeatReader专用书库
+
+
+
+[[MyResume](https://github.com/hankangwen/MyResume)]：MyResume
 
 
 
