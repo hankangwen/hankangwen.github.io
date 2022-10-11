@@ -1,4 +1,4 @@
-### Github仓库
+### AnoutMe
 
 （更新于2022年9月28日）
 
@@ -12,17 +12,24 @@
 
 [[BoatRaceServer](https://github.com/hankangwen/BoatRaceServer)]：BoatRace服务器
 
+[[BoatRaceWiki](https://github.com/hankangwen/BoatRaceWiki)]：BoatRaceWiki
+
 [[CharacterAvatar](https://github.com/hankangwen/CharacterAvatar)]：Unity换装
 
 [[Excel2Lua](https://github.com/hankangwen/Excel2Lua)]：将xls、xlsx数据文件转化为lua脚本，作为游戏资源使用
 
+[[glados-checkin-1](https://github.com/hankangwen/glados-checkin-1)]：Glados自动签到
+
+[[GLaDOS-CheckIn_js](https://github.com/hankangwen/GLaDOS-CheckIn_js)]：Glados自动签到
+
+[[GLaDOS_Checkin](https://github.com/hankangwen/GLaDOS_Checkin)]：Glados自动签到
+
 [[hankangwen.github.io](https://github.com/hankangwen/hankangwen.github.io)]：网站仓库
 
-[[Jenkins_AutoPackage](https://github.com/hankangwen/Jenkins_AutoPackage)]：基于Jekins的Unity自动化打包
+[[MarkDownNote](https://github.com/hankangwen/MarkDownNote)]：MarkDown笔记和NeatReader专用书库
+
+[[MyResume](https://github.com/hankangwen/MyResume)]：MyResume
 
 [[SensitiveWordFilter](https://github.com/hankangwen/SensitiveWordFilter)]：SensitiveWordFilter：敏感词过滤
 
 [[Unity_RSA_DES](https://github.com/hankangwen/Unity_RSA_DES)]：Unity_RSA_DES-Unity使用RSA和DES加密网络数据包
-
-[[UnitySendEmail](https://github.com/hankangwen/UnitySendEmail)]：Unity+C# 发送邮件
-
