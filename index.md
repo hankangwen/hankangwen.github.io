@@ -1,8 +1,8 @@
 About me
 
 ### 我的博客
+[Github-我的主页](https://hankangwen.github.io)  
 [CSDN-qq_34035956](https://blog.csdn.net/qq_34035956)  
-[Github-我的主页](https://hankangwen.github.io)
 
 ### 代码仓库
 [GitHub-getker](https://github.com/getker)  
